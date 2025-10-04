@@ -1,104 +1,51 @@
 {
   "devices": [
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "a1b2c3d4e5f67890a",
       "status": 1,
       "email": "joao.silva@gmail.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "b2c3d4e5f67890a1b",
       "status": 1,
       "email": "maria.lima@hotmail.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "c3d4e5f67890a1b2c",
       "status": 1,
       "email": "ricardo.alves@outlook.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "d4e5f67890a1b2c3d",
       "status": 1,
       "email": "ana.pereira@yahoo.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "e5f67890a1b2c3d4e",
       "status": 1,
       "email": "bruno.santos@gmail.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "f67890a1b2c3d4e5f",
       "status": 1,
       "email": "laura.ferreira@uol.com.br"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "67890a1b2c3d4e5f6",
       "status": 1,
       "email": "marcos.gomes@gmail.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "7890a1b2c3d4e5f67",
       "status": 1,
       "email": "patricia.oliveira@hotmail.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "890a1b2c3d4e5f678",
       "status": 1,
       "email": "felipe.ribeiro@outlook.com"
     },
     {
-      "device": "e336ed92c8cf98aeb",
+      "device": "90a1b2c3d4e5f6789",
       "status": 1,
-      "email": "carla.martins@yahoo.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "gustavo.nogueira@gmail.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "renata.castro@uol.com.br"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "eduardo.assis@empresa.com.br"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "simone.medeiros@gmail.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "lucas.cardoso@hotmail.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "isabela.freitas@outlook.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "thiago.barros@yahoo.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "aline.rodrigues@gmail.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "daniel.moreira@empresa.com"
-    },
-    {
-      "device": "e336ed92c8cf98aeb",
-      "status": 1,
-      "email": "sofia.carvalho@provedor.com.br"
-    }
-  ]
-}
+      "email":
